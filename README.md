@@ -35,6 +35,15 @@ A convenience getter and setters for corner radius (view.layer.cornerRadius) is 
 - iPhone 14
 - iPhone 14 Plus
 
+## Installation
+### Swift Package Manager
+- In XCode: File > Add Packages 
+- Add  url https://github.com/yorwosP/NotchView
+
+
+### Manually 
+Just copy the folder into your project
+
 ## Usage:
 
 ```swift
