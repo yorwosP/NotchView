@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "notchview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yorwosP/NotchView",
+      "state" : {
+        "branch" : "main",
+        "revision" : "29ee4ecebe71ee8eff0ad680dc88265e378e6ac8"
+      }
+    }
+  ],
+  "version" : 2
+}
